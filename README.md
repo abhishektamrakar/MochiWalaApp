@@ -1,6 +1,3 @@
-Sure, here's a sample `README.md` file for your Mochi Wala e-commerce Java app. You can use this as a starting point and customize it further based on your specific requirements and additional information you want to provide.
-
-```markdown
 # Mochi Wala - Java JDBC SQL E-commerce App
 
 Mochi Wala is a Java JDBC SQL-based e-commerce application that allows users to explore and purchase various shoe and accessory services. The app focuses on providing a personalized shopping experience for users.
