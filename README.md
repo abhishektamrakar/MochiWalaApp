@@ -1,4 +1,5 @@
 # Mochi Wala - Java JDBC SQL E-commerce App
+![images](https://github.com/abhishektamrakar/MochiWalaApp/assets/88223580/043dfb21-bfec-45fd-bb85-ed04d4f8d903)
 
 Mochi Wala is a Java JDBC SQL-based e-commerce application that allows users to explore and purchase various shoe and accessory services. The app focuses on providing a personalized shopping experience for users.
 
